@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+}
+input {
+  border-bottom: 1px solid white;
+  background-color: black;
+  margin: 10px;
+  padding: 5px;
+}
+::placeholder {
+  color: white;
+}
+.fields {
+  width: 300px;
+}
+.main {
+  max-width: 50%;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+button {
+  background-color: white;
+  padding: 20px;
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 30px;
+}
